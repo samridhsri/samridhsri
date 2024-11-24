@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a 3rd Year Computer Engineering Student
+- 🔭 I’m currently a Computer Engineering Grad student at New York University
 - 🌱 I’m currently learning and making project in Web-Development and Data Science
 - 💻 I code in Python, JavaScript and sometimes in C++ and Java
 - 👯 I’m looking to collaborate on any new Web Project and ML projects
