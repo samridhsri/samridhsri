@@ -13,6 +13,3 @@ Here are some ideas to get you started:
          🏢 [LinkedIn](https://www.linkedin.com/in/samridh-srivastava-a6b888ba/)
          🕊️ [Twitter](https://twitter.com/CallmeSamridh)
 - ⚡ Fun fact: FullStack Humor Developer
-
-#
-[![Samridh's github stats](https://github-readme-stats.vercel.app/api?username=samridhsri&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/samridhsri/github-readme-stats)
