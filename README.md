@@ -1,44 +1,135 @@
+<div align="center">
+
 # Hi, I'm Samridh 👋
 
-**AI/ML Engineer | MLOps | Backend Engineering**
+### AI/ML Engineer · MLOps · Backend Engineering
 
-I'm a Computer Engineering graduate from **New York University** who enjoys building practical AI systems, ML infrastructure, and developer tools.
+I build **AI-powered systems, ML infrastructure, and intelligent developer tools.**
 
-### What I'm working on
+[LinkedIn](https://www.linkedin.com/in/samridh-srivastava-a6b888ba/) ·
+[Portfolio](https://samridhsrivastava.netlify.app/) ·
+[GitHub](https://github.com/samridhsri)
 
-* Building **AI/ML applications** with LLMs, RAG, and Agentic AI
-* Developing **production-ready ML pipelines** and inference systems
-* Exploring **LLM optimization, quantization, and on-device AI**
-* Building backend services with **Python, FastAPI, Docker, and PostgreSQL**
-* Experimenting with **LangGraph, LlamaIndex, Ray, MLflow, and cloud infrastructure**
+</div>
 
-### Tech Stack
+---
 
-**Languages:** Python, JavaScript, SQL
-**AI/ML:** PyTorch, Transformers, RAG, LLMs, Agentic AI, LangGraph
-**Backend:** FastAPI, PostgreSQL, Redis
-**MLOps & Infrastructure:** Docker, Kubernetes, Terraform, MLflow, Ray
-**Cloud & Tools:** AWS, Git, Linux, GitHub Actions
+## 🧠 What I Build
 
-### Featured Projects
+```text
+🤖 Agentic AI          → LLM applications, RAG, AI agents
+⚙️ ML Infrastructure   → Training, inference, evaluation & deployment
+🚀 AI Inference        → Quantization, optimization & on-device ML
+🔧 Backend Systems     → APIs, distributed systems & data pipelines
+```
 
-🔹 **AI Research Intelligence Platform**
-Agentic AI platform for research discovery, retrieval, and synthesis.
+---
 
-🔹 **Triage**
-An AI productivity agent that converts unstructured thoughts into organized Notion tasks and information.
+## 🚀 Featured Projects
 
-🔹 **Plant Disease Detection**
-Production-oriented computer vision system with FastAPI, ONNX, quantization, Docker, and Terraform.
+### 🔬 AI Research Intelligence Platform
 
-🔹 **F1 Race Telemetry Analytics**
-Real-time race telemetry pipeline using Kafka and Apache Spark.
+An agentic AI platform for researching, retrieving, and synthesizing information from multiple sources.
 
-### Let's Connect
+**FastAPI · LangGraph · PostgreSQL · pgvector · Redis · Cohere · Docker**
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/samridh-srivastava-a6b888ba/)
-* 🐦 [Twitter / X](https://twitter.com/CallmeSamridh)
-* 🌐 [Portfolio](https://samridhsrivastava.netlify.app/)
-* 💻 [GitHub](https://github.com/samridhsri)
+---
 
-> **Building things, breaking things, learning, and shipping.**
+### 🧠 Triage
+
+An AI productivity agent that turns unstructured thoughts into organized tasks and information.
+
+**Python · Gemini · Notion API · FastAPI · Docker**
+
+---
+
+### 🌱 Plant Disease Detection
+
+Production-oriented computer vision system with optimized inference and infrastructure-as-code.
+
+**PyTorch · FastAPI · ONNX · INT8 Quantization · Docker · Terraform · MLflow**
+
+---
+
+### 🏎️ F1 Race Telemetry Analytics
+
+Real-time race telemetry processing and analytics pipeline.
+
+**Kafka · Apache Spark · Python · Streaming Data**
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+`Transformers` · `LLMs` · `RAG` · `Agentic AI` · `LangGraph` · `LlamaIndex`
+
+### Backend & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,kafka" />
+</p>
+
+### Infrastructure & MLOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,githubactions" />
+</p>
+
+`Ray` · `MLflow` · `ONNX` · `Prometheus` · `Grafana`
+
+---
+
+## ⚡ Currently Exploring
+
+* 🧩 Agentic AI architectures
+* 🧠 LLM inference optimization
+* 📦 Model quantization
+* 📱 On-device AI
+* 🔄 Production ML pipelines
+* ☁️ Scalable ML infrastructure
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samridhsri&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samridhsri&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samridhsri&hide_border=true&theme=github-compact" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in AI, ML infrastructure, or building something interesting?**
+
+[LinkedIn](https://www.linkedin.com/in/samridh-srivastava-a6b888ba/) ·
+[Portfolio](https://samridhsrivastava.netlify.app/) ·
+[Twitter](https://twitter.com/CallmeSamridh)
+
+<br>
+
+⭐ Check out my repositories and feel free to reach out.
+
+</div>
