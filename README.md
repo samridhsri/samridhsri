@@ -1,15 +1,44 @@
-# Hi there 👋, I'm Samridh!
+# Hi, I'm Samridh 👋
 
+**AI/ML Engineer | MLOps | Backend Engineering**
 
-<!--**samridhsri/samridhsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I'm a Computer Engineering graduate from **New York University** who enjoys building practical AI systems, ML infrastructure, and developer tools.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently a Computer Engineering Grad student at New York University
-- 🌱 I’m currently learning and making project in Web-Development and Data Science
-- 💻 I code in Python, JavaScript and sometimes in C++ and Java
-- 👯 I’m looking to collaborate on any new Web Project and ML projects
-- 📫 How to reach me: 
-         🏢 [LinkedIn](https://www.linkedin.com/in/samridh-srivastava-a6b888ba/)
-         🕊️ [Twitter](https://twitter.com/CallmeSamridh)
-- ⚡ Fun fact: FullStack Humor Developer
+* Building **AI/ML applications** with LLMs, RAG, and Agentic AI
+* Developing **production-ready ML pipelines** and inference systems
+* Exploring **LLM optimization, quantization, and on-device AI**
+* Building backend services with **Python, FastAPI, Docker, and PostgreSQL**
+* Experimenting with **LangGraph, LlamaIndex, Ray, MLflow, and cloud infrastructure**
+
+### Tech Stack
+
+**Languages:** Python, JavaScript, SQL
+**AI/ML:** PyTorch, Transformers, RAG, LLMs, Agentic AI, LangGraph
+**Backend:** FastAPI, PostgreSQL, Redis
+**MLOps & Infrastructure:** Docker, Kubernetes, Terraform, MLflow, Ray
+**Cloud & Tools:** AWS, Git, Linux, GitHub Actions
+
+### Featured Projects
+
+🔹 **AI Research Intelligence Platform**
+Agentic AI platform for research discovery, retrieval, and synthesis.
+
+🔹 **Triage**
+An AI productivity agent that converts unstructured thoughts into organized Notion tasks and information.
+
+🔹 **Plant Disease Detection**
+Production-oriented computer vision system with FastAPI, ONNX, quantization, Docker, and Terraform.
+
+🔹 **F1 Race Telemetry Analytics**
+Real-time race telemetry pipeline using Kafka and Apache Spark.
+
+### Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/samridh-srivastava-a6b888ba/)
+* 🐦 [Twitter / X](https://twitter.com/CallmeSamridh)
+* 🌐 [Portfolio](https://samridhsrivastava.netlify.app/)
+* 💻 [GitHub](https://github.com/samridhsri)
+
+> **Building things, breaking things, learning, and shipping.**
