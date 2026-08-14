@@ -113,7 +113,7 @@ Real-time race telemetry processing and analytics pipeline.
 **Interested in AI, ML infrastructure, or building something interesting?**
 
 [LinkedIn](https://www.linkedin.com/in/samridh-srivastava-a6b888ba/) ·
-[Portfolio](https://samridhsrivastava.netlify.app/) ·
+[Portfolio](https://www.samridhsrivastava.com) ·
 [Twitter](https://twitter.com/CallmeSamridh)
 
 <br>
