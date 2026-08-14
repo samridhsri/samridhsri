@@ -96,20 +96,6 @@ Real-time race telemetry processing and analytics pipeline.
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samridhsri&theme=transparent&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samridhsri&theme=github-compact&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Contribution Graph
 
 <div align="center">
